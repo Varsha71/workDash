@@ -13,3 +13,12 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+First time setup will require you to do:
+```
+npm install
+```
+To run the reactjs frontend
+```
+npm start
+```
+
